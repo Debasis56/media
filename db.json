@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Mr. Antoinette Hauck",
+      "id": 2
+    },
+    {
+      "name": "Dr. Santos Toy",
+      "id": 3
+    },
+    {
+      "name": "Johnnie Botsford",
+      "id": 4
+    },
+    {
+      "name": "Earnest Braun",
+      "id": 5
+    },
+    {
+      "name": "Rene Kshlerin II",
+      "id": 6
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
